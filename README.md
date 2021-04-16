@@ -4,6 +4,8 @@
 
 [点击创建新 BUG ](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug)
 
+## 按类型
+
 ### BUG
 
 IOS
@@ -18,6 +20,12 @@ API
 
 - [列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+api%22)--- [点击创建 API BUG](https://github.com/bookey-dev/bookey.todo/issues/new?labels=bug,platform:%20api)
 
-## 优化
+## 按团队
+
+### IOS
+
+### Android
+
+### API
 
 ...
