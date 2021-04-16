@@ -6,9 +6,15 @@
 
 ## BUG
 
-[IOS](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+ios%22) --- [点击创建 BUG](https://github.com/bookey-dev/bookey.todo/issues/new?labels=bug,platform:%20ios)
+### IOS
 
-[Android](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+android%22) --- [点击创建 BUG](https://github.com/bookey-dev/bookey.todo/issues/new?labels=bug,platform:%20android)
+[列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+ios%22) --- [点击创建 BUG](https://github.com/bookey-dev/bookey.todo/issues/new?labels=bug,platform:%20ios)
+
+### Android
+
+[列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+android%22) --- [点击创建 BUG](https://github.com/bookey-dev/bookey.todo/issues/new?labels=bug,platform:%20android)
+
+### API
 
 [API](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+api%22)--- [点击创建 BUG](https://github.com/bookey-dev/bookey.todo/issues/new?labels=bug,platform:%20api)
 
