@@ -1,6 +1,6 @@
 > [根网址：https://bookey-dev.github.io](https://bookey-dev.github.io)
 
-# Todo 
+# TODO 
 
 [点击创建新 BUG ](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug)
 
