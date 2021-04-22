@@ -17,5 +17,3 @@
 - Android 发版记录
   - [Google play](https://github.com/bookey-dev/bookey.todo/labels/releases%3A%20google) --- [点击创建版本](https://github.com/bookey-dev/bookey.todo/issues/new?labels=releases%3A+google)
   - [Huawei store](https://github.com/bookey-dev/bookey.todo/labels/releases%3A%20huawei) --- [点击创建版本](https://github.com/bookey-dev/bookey.todo/issues/new?labels=releases%3A+huawei)
-
-> [发版规范](docs/process-specification.md#版本发布)
