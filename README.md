@@ -5,7 +5,7 @@
 
 [Bug 列表](https://github.com/bookey-dev/bookey.bug/issues) --- [点击创建新 bug](https://github.com/bookey-dev/bookey.bug/issues/new)
 
-### BUG
+### 按平台
 
 - [IOS 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+ios%22) --- [点击创建 IOS BUG](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20ios)
 - [Android 列表](https://github.com/bookey-dev/bookey.bug/issues?q=is%3Aopen+is%3Aissue+label%3A%22platform%3A+android%22) --- [点击创建 Android BUG](https://github.com/bookey-dev/bookey.bug/issues/new?labels=bug,platform:%20android)
