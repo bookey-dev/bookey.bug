@@ -1,6 +1,6 @@
 ---
 name: Android - BUG 反馈
-about: 创建报告以帮助我们改进
+about: 反馈 BUG 以帮助我们改进
 title: ''
 labels: 'bug, platform: android'
 assignees: ''
